@@ -38,4 +38,5 @@ function start(port) {
 module.exports = {
   start,
   // start:start,
+  app,
 };
